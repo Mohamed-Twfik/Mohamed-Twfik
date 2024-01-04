@@ -23,7 +23,6 @@
   <a href="https://www.linkedin.com/in/mohamed-twfik-bb6691216/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
   <a href="mailto:mohamedtwfik910@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
   <a href="http://wa.me//201143649608"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a>
-  <a href="https://www.facebook.com/profile.php?id=100019162772718"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a>
   <a href="https://github.com/Mohamed-Twfik/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a>
 </p>
 <hr>
