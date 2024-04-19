@@ -1,6 +1,6 @@
-<h1 align="center" style="border: none; margin-top: 50px">
+<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Mohamed+Twfik;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
-</h1>
+</h3>
 
 ## About Me
 
