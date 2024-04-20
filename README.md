@@ -13,30 +13,55 @@ I am a passionate software engineer with a focus on backend development. Graduat
   <a href="mailto:mohamedtwfik910@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height=23></a>
   <a href="http://wa.me//201143649608"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" height=23></a>
   <a href="https://github.com/Mohamed-Twfik/"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height=23></a>
-  <a href="https://github.com/Mohamed-Twfik/"><img src="https://img.shields.io/badge/Portfolio-white?style=flat&logo=protodotio&logoColor=black" height=23></a>
+  <!-- <a href="https://github.com/Mohamed-Twfik/"><img src="https://img.shields.io/badge/Portfolio-white?style=flat&logo=protodotio&logoColor=black" height=23></a> -->
 </p>
 
 
 ## Skills
 
 - **Programming Languages:** JavaScript (Node.js), Python, PHP, Java
-- **Frameworks & Libraries:** Express.js, Socket.IO, Tkinter
+- **Frameworks & Libraries:** Express.js, Socket.IO, Bootstrab, JQuery, Tkinter
 - **Databases:** MongoDB, MySQL
 - **Other Technologies:** Sequelize ORM, Mongoose ODM
 - **Version Control:** Git, GitHub
 
 ## Projects
 
-### Graduation Project: Disease Detection App
-- Developed a disease detection application using artificial intelligence.
-- Implemented backend REST API using Express.js and Sequelize ORM to manage data.
-- Utilized MySQL database for data storage.
-- Collaborated with team members to integrate AI models into the application.
+### Library Website
+- Designed and developed a PHP library website using pure PHP for the backend and HTML, CSS (utilizing the Bootstrap framework), and JavaScript for the frontend.
+- Implemented responsive design principles to ensure optimal user experience across various devices.
+- Developed backend functionalities to manage and display library resources, including authentication, CRUD operations, and search functionality.
+- Conducted thorough testing and debugging to ensure the website's stability, security, and performance.
+- Documented the codebase and provided technical support and maintenance post-launch.
+
+### Farm Vision
+- Back-end developer for a web application that helps farmers to protect and boost the management of their farms.
+- Write clean, maintainable, and efficient code in JavaScript to implement backend functionalities.
+- Used Node.js as a JavaScript Environment, Express.js, MYSQL as SQL Database, and Sequelize as ORM with MVC Design Pattern to design and create REST API for data manipulation and authentication.
+- Implemented security features such as encryption, hashing, and JWT to protect user data and prevent unauthorized access.
+- Integrate a payment gateway using Stripe to enable users to subscribe
+- Collaborated with front-end developers and UI/UX designers to ensure a smooth and user-friendly experience.
+- Tested and debugged the application using tools such as Postman.
+- Presented the project as a college graduation project and received positive feedback from the professors and peers.
 
 ### Social Media App
-- Designed and developed a social media platform for programmers using Express.js and MongoDB.
-- Implemented features such as posting, liking, ranking, and commenting on code snippets.
-- Ensured scalability and performance by optimizing database queries and server-side operations.
+- Back-end developer for a social media platform for programmers to share code snippets and ask programming questions.
+- Write clean, maintainable, and efficient code in JavaScript to implement backend functionalities.
+- Use Node.js as a JavaScript Environment, Express.js, MongoDB as a NoSQL Database, and Mongoose with MVC Design Pattern to design and create REST APIs for data storage, retrieval, and manipulation.
+- Integrated features include user registration, login, profile, post, comment, like, and search.
+- I applied best practices such as MVC Design pattern, code modularization, and documentation.
+- Used tools such as Git, and GitHub for version control and continuous integration.
+- Tested and debugged the application using tools such as Postman.
+- Deployed the application on the Render Platform.
+
+### Memory Game
+- Back-end developer for a real-time memory game that allows multiple players to play in the same room.
+- Write clean, maintainable, and efficient code in JavaScript to implement backend functionalities.
+- Used Node.js as a JavaScript Environment, Express.js, and Socket.io to create a WebSocket serv﻿er that handles the game logic and communication between the clients.
+- Designed and implemented the game rules, such as matching the two similar cards, scoring the points, and ending the game.
+- Ensured the scalability and performance of the server by using load balancing and caching techniques.
+- Tested and debugged the application During develop process with the front-end developer .
+- Deployed the game on Render platform.
 
 ### Maintenance Company System
 - Built a system for a maintenance company to manage maintenance requests for electronic devices in schools.
