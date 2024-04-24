@@ -43,6 +43,7 @@ I am a passionate software engineer with a focus on backend development. Graduat
 - Collaborated with front-end developers and UI/UX designers to ensure a smooth and user-friendly experience.
 - Tested and debugged the application using tools such as Postman.
 - Presented the project as a college graduation project and received positive feedback from the professors and peers.
+- Incorporated interactive community features: posting, commenting, and liking, fostering engagement and enriching user experience.
 
 ### Social Media App
 - Back-end developer for a social media platform for programmers to share code snippets and ask programming questions.
