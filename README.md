@@ -20,19 +20,22 @@ I am a passionate software engineer with a focus on backend development. Graduat
 ## Skills
 
 - **Programming Languages:** JavaScript (Node.js), Python, PHP, Java
-- **Frameworks & Libraries:** Express.js, Socket.IO, Bootstrab, JQuery, Tkinter
+- **Frameworks & Libraries:** Express.js, Socket.IO, Bootstrab, JQuery, flask, Tkinter
 - **Databases:** MongoDB, MySQL
 - **Other Technologies:** Sequelize ORM, Mongoose ODM
 - **Version Control:** Git, GitHub
 
 ## Projects
 
-### Library Website
-- Designed and developed a PHP library website using pure PHP for the backend and HTML, CSS (utilizing the Bootstrap framework), and JavaScript for the frontend.
-- Implemented responsive design principles to ensure optimal user experience across various devices.
-- Developed backend functionalities to manage and display library resources, including authentication, CRUD operations, and search functionality.
-- Conducted thorough testing and debugging to ensure the website's stability, security, and performance.
-- Documented the codebase and provided technical support and maintenance post-launch.
+### Friend Nexus
+- Designed and implemented RESTful APIs for FriendNexus Chat Application, including user authentication, friend requests, private messaging, profile customization, password management, group creation, status updates, and real-time communication.
+- Ensured secure and authentic user access through account creation with email verification.
+- Implemented friend request functionalities to enable users to connect seamlessly.
+- Developed private messaging features allowing users to exchange text messages and files securely.
+- Personalized user profiles with customizable options to showcase personality and interests.
+- Implemented password management systems, enabling users to change passwords and reset them via email verification.
+- Created and managed groups, facilitating vibrant communities based on shared interests.
+- Integrated Socket.IO for real-time messaging and notifications, ensuring instant updates on activities.
 
 ### Farm Vision
 - Back-end developer for a web application that helps farmers to protect and boost the management of their farms.
@@ -54,6 +57,13 @@ I am a passionate software engineer with a focus on backend development. Graduat
 - Used tools such as Git, and GitHub for version control and continuous integration.
 - Tested and debugged the application using tools such as Postman.
 - Deployed the application on the Render Platform.
+
+### Library Website
+- Designed and developed a PHP library website using pure PHP for the backend and HTML, CSS (utilizing the Bootstrap framework), and JavaScript for the frontend.
+- Implemented responsive design principles to ensure optimal user experience across various devices.
+- Developed backend functionalities to manage and display library resources, including authentication, CRUD operations, and search functionality.
+- Conducted thorough testing and debugging to ensure the website's stability, security, and performance.
+- Documented the codebase and provided technical support and maintenance post-launch.
 
 ### Memory Game
 - Back-end developer for a real-time memory game that allows multiple players to play in the same room.
