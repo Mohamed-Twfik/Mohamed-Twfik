@@ -4,8 +4,10 @@
 
 ## About Me
 
-I am a passionate software engineer with a focus on backend development. Graduated in 2023 with a degree in Software Engineering, I have experience in building robust backend systems using Node.js, Express.js, and MongoDB/MySQL databases. My expertise also extends to real-time applications, particularly in sociel media and chats applications.
+I am a passionate software engineer with a focus on backend development. Graduated in 2023 with a degree in Computer Science, I have experience in building robust backend systems using Node.js, Express.js, and MongoDB/MySQL databases. My expertise also extends to real-time applications, particularly in sociel media and chats applications.
 
+
+<!-- Experienced Software Engineer proficient in Software Development, API Development, and Socket Programming, with a solid foundation in Database Design. Skilled in architecting scalable server-side solutions, particularly within the Node.js environment. Demonstrated track record of optimizing web application performance and implementing robust security systems. Recognized for meticulous attention to detail and strong collaborative abilities within cross-functional teams. Eager to leverage creativity, time management prowess, and effective communication skills to drive innovation in backend development. Possess strong problem-solving skills and adept at efficiently resolving challenges. -->
 
 <h2 >Contact Me</h2>
 <p>
