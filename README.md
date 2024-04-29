@@ -81,6 +81,11 @@ I am a passionate software engineer with a focus on backend development. Graduat
 - Designed a workflow for handling maintenance orders from request submission to technician assignment and completion.
 - Developed backend APIs using Express.js and MongoDB for data storage.
 
+### City-to-City Path Finding Project**
+- Developed a Python-based application to find optimal paths between cities using algorithms such as Breadth-First Search, Depth-First Search, A*, and Uniform Cost Search.
+- Implemented a user-friendly interface with tkinter and integrated map visualization using folium.
+- Technologies used: Python, tkinter, folium, openrouteservice, Pillow (PIL)
+
 <h2>Stats</h2>
 <p align="center">
 <a href="https://github.com/Mohamed-Twfik/">
