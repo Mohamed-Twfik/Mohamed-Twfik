@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Mohamed+Twfik;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
 </h3>
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+<br>
+
 # 👋 Hi, I'm Mohamed Twfik!
 
 🚀 **Passionate Backend Developer | NestJS Enthusiast**  
