@@ -9,7 +9,7 @@
 
 # 👋 Hi, I'm Mohamed Twfik!
 
-🚀 **Passionate Backend Developer | NestJS Enthusiast**  
+🚀 **Passionate Backend Developer**  
 💡 **Building Scalable and Efficient Systems**  
 📍 **Graduated in 2023 | Computer Engineering | Menoufia University**  
 
@@ -17,8 +17,8 @@
 <br>
 
 ## 💻 **Tech Stack**
-- 👨‍💻 **Programming Language:** JavaScript(TypeScript), PHP, Python
-- 🟢 **Backend:** NestJS, Node.js, Express.js
+- 👨‍💻 **Programming Language:** Python, JavaScript(TypeScript), PHP
+- 🟢 **Backend:** Django, NestJS, Node.js, Express.js
 - 🛢️ **Databases:** MySQL, MongoDB  
 - 🌐 **Frontend:** HTML, CSS, Bootstrap  
 - 🖥️ **Other Tools:** Postman, Mongoose  
@@ -36,7 +36,7 @@
 <br>
 
 ## 🚀 **Projects**
-🔹 [E-Commerce Backend](https://github.com/Senior-Medical/E-Commerce-App) – **A NestJS-based backend for medical wear business.**
+🔹 [E-Commerce Backend](https://github.com/Mohamed-Twfik/e-commerce-django) – **A Django-based backend for medical wear business.**
 
 🔹 [Salary Calculator](https://github.com/Mohamed-Twfik/Senior_Management_APP) – **A productivity-based salary calculation system using NestJS and EJS.**
 
