@@ -20,7 +20,7 @@
 - 👨‍💻 **Programming Language:** Python, JavaScript(TypeScript), PHP
 - 🟢 **Backend:** Django, NestJS, Node.js, Express.js
 - 🛢️ **Databases:** MySQL, MongoDB  
-- 🌐 **Frontend:** HTML, CSS, Bootstrap  
+- 🌐 **Frontend:** HTML, CSS, Bootstrap, ReactJs
 - 🖥️ **Other Tools:** Postman, Mongoose  
 - 🔐 **API Development:** RESTful APIs  
 
