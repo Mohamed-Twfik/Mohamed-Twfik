@@ -9,7 +9,7 @@
 
 # 👋 Hi, I'm Mohamed Twfik!
 
-🚀 **Passionate Backend Developer**  
+🚀 **Passionate Software Engineer**  
 💡 **Building Scalable and Efficient Systems**  
 📍 **Graduated in 2023 | Computer Engineering | Menoufia University**  
 
@@ -17,11 +17,10 @@
 <br>
 
 ## 💻 **Tech Stack**
-- 👨‍💻 **Programming Language:** Python, JavaScript(TypeScript), PHP
+- 👨‍💻 **Programming Language:** JavaScript(TypeScript), Python, PHP
 - 🟢 **Backend:** Django, NestJS, Node.js, Express.js
+- 🌐 **Frontend:** ReactJs, HTML, CSS, Bootstrap
 - 🛢️ **Databases:** MySQL, MongoDB  
-- 🌐 **Frontend:** HTML, CSS, Bootstrap, ReactJs
-- 🖥️ **Other Tools:** Postman, Mongoose  
 - 🔐 **API Development:** RESTful APIs  
 
 ---
